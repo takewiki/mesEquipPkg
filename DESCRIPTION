@@ -1,0 +1,12 @@
+Package: mesEquipPkg
+Type: Package
+Title: equipment managenetment for mes app
+Version: 0.1.1
+Author: hulilei,liudan
+Maintainer: zhangzhi <zhangzhi@takewiki.com.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
