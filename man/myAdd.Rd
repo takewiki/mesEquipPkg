@@ -7,7 +7,7 @@
 myAdd(x, y)
 }
 \arguments{
-\item{x}{一个}
+\item{x}{一个2222}
 
 \item{y}{第二个参数}
 }

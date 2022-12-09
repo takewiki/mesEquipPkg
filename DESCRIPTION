@@ -1,7 +1,7 @@
 Package: mesEquipPkg
 Type: Package
 Title: equipment managenetment for mes app
-Version: 0.1.1
+Version: 0.2.0
 Author: hulilei,liudan
 Maintainer: zhangzhi <zhangzhi@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
